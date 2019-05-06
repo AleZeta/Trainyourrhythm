@@ -1,5 +1,5 @@
 # Trainyourrhythm
-•	Schermata iniziale start e scelta livello o canzone disponibile
+•	Schermata iniziale start e scelta livello o canzone disponibile /n
 •	Pressione tasto start
 •	Caricamento canzone selezionata 
 •	Riproduzione canzone con processing (alternativa buzzer arduino)
